@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sea battle" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sea battle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sea battle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="computer_run.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="computer_run.h" />
+		<Unit filename="description.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="description.h" />
+		<Unit filename="gameplay.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gameplay.h" />
+		<Unit filename="generate_boat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="generate_boat.h" />
+		<Unit filename="information.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="player_boat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="player_boat.h" />
+		<Unit filename="player_run.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="player_run.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

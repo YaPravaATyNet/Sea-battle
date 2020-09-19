@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1517144876 source:c:\users\user\documents\sea battle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"description.h"
+	"generate_boat.h"
+	"player_boat.h"
+	"gameplay.h"
+
+1514346624 source:c:\users\user\documents\sea battle\description.c
+	<stdio.h>
+	"description.h"
+
+1514299019 c:\users\user\documents\sea battle\information.h
+
+1514292901 c:\users\user\documents\sea battle\description.h
+	"information.h"
+
+1514347362 source:c:\users\user\documents\sea battle\generate_boat.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"generate_boat.h"
+
+1514290949 c:\users\user\documents\sea battle\generate_boat.h
+	<stdio.h>
+	<stdlib.h>
+	"description.h"
+
+1514291295 source:c:\users\user\documents\sea battle\player_boat.c
+	<stdio.h>
+	"player_boat.h"
+	"generate_boat.h"
+
+1514291311 c:\users\user\documents\sea battle\player_boat.h
+	<stdio.h>
+	"generate_boat.h"
+
+1514382996 source:c:\users\user\documents\sea battle\gameplay.c
+	<stdio.h>
+	"gameplay.h"
+	"description.h"
+	"player_boat.h"
+
+1513104878 c:\users\user\documents\sea battle\gameplay.h
+	<stdio.h>
+	"player_run.h"
+	"computer_run.h"
+
+1514383043 c:\users\user\documents\sea battle\player_run.h
+	<stdio.h>
+	"player_boat.h"
+
+1514383026 source:c:\users\user\documents\sea battle\player_run.c
+	<stdio.h>
+	"player_run.h"
+	"player_boat.h"
+
+1514369708 source:c:\users\user\documents\sea battle\computer_run.c
+	<stdio.h>
+	"computer_run.h"
+	"player_run.h"
+
+1514369526 c:\users\user\documents\sea battle\computer_run.h
+	<stdio.h>
+	"player_run.h"
+
+1514376908 source:c:\users\user\documents\python\sea battle\computer_run.c
+	<stdio.h>
+	"computer_run.h"
+	"player_run.h"
+
+1514376726 c:\users\user\documents\python\sea battle\computer_run.h
+	<stdio.h>
+	"player_run.h"
+
+1514390243 c:\users\user\documents\python\sea battle\player_run.h
+	<stdio.h>
+	"player_boat.h"
+
+1514298511 c:\users\user\documents\python\sea battle\player_boat.h
+	<stdio.h>
+	"generate_boat.h"
+
+1514298149 c:\users\user\documents\python\sea battle\generate_boat.h
+	<stdio.h>
+	<stdlib.h>
+	"description.h"
+
+1514300101 c:\users\user\documents\python\sea battle\description.h
+	"information.h"
+
+1514306219 c:\users\user\documents\python\sea battle\information.h
+
+1514353824 source:c:\users\user\documents\python\sea battle\description.c
+	<stdio.h>
+	"description.h"
+
+1514390196 source:c:\users\user\documents\python\sea battle\gameplay.c
+	<stdio.h>
+	"gameplay.h"
+	"description.h"
+	"player_boat.h"
+
+1513112078 c:\users\user\documents\python\sea battle\gameplay.h
+	<stdio.h>
+	"player_run.h"
+	"computer_run.h"
+
+1514354562 source:c:\users\user\documents\python\sea battle\generate_boat.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"generate_boat.h"
+
+1515437276 source:c:\users\user\documents\python\sea battle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"description.h"
+	"generate_boat.h"
+	"player_boat.h"
+	"gameplay.h"
+
+1514298495 source:c:\users\user\documents\python\sea battle\player_boat.c
+	<stdio.h>
+	"player_boat.h"
+	"generate_boat.h"
+
+1514390226 source:c:\users\user\documents\python\sea battle\player_run.c
+	<stdio.h>
+	"player_run.h"
+	"player_boat.h"
+
